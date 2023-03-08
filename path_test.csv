@@ -1,0 +1,353 @@
+id,model,Datetime,point,path,isgood
+0c1cb7bc2b7df7fb,Xiaomi Redmi Note 9 Pro | 10,2021-09-14 10:06:00,chest03,./audio_files/20210914-100648-0c1cb7bc2b7df7fb-chest03.wav,0
+d90e6306cb7373be,Xiaomi Mi A2 | 10,2021-03-08 14:06:00,chest04,./audio_files/20210308-140643-d90e6306cb7373be-chest04.wav,0
+21a36ba2a1ad0629,samsung SM-A530F | 9,2020-10-08 09:01:00,chest03,./audio_files/20201008-090131-21a36ba2a1ad0629-chest03.wav,2
+159fb9bc0125ec8d,Xiaomi Redmi Note 9 Pro | 10,2021-07-05 11:05:00,chest01,./audio_files/20210705-110527-159fb9bc0125ec8d-chest01.wav,0
+5db8cab9cfd88c21,Xiaomi Redmi Note 9 Pro | 10,2021-07-13 15:45:00,chest02,./audio_files/20210713-154545-5db8cab9cfd88c21-chest02.wav,1
+433f508bfb069581,Xiaomi Redmi Note 9 Pro | 11,2021-11-29 13:04:00,spine02,./audio_files/20211129-130401-433f508bfb069581-spine02.wav,0
+0b5156558e474623,Xiaomi Redmi Note 9 Pro | 10,2021-08-17 12:37:00,chest01,./audio_files/20210817-123750-0b5156558e474623-chest01.wav,0
+9a77f80ec7844a8b,Xiaomi Redmi Note 9 Pro | 10,2021-11-18 12:40:00,spine01,./audio_files/20211118-124038-9a77f80ec7844a8b-spine01.wav,2
+9e3d1d84a1e509d9,Xiaomi Redmi Note 9 Pro | 10,2021-11-17 12:48:00,spine05,./audio_files/20211117-124831-9e3d1d84a1e509d9-spine05.wav,0
+79f88017a70a224f,Xiaomi Mi A2 | 10,2021-03-08 12:17:00,chest02,./audio_files/20210308-121758-79f88017a70a224f-chest02.wav,0
+dd7dbafb7a48aff8,Xiaomi Redmi Note 9 Pro | 10,2021-11-01 14:16:00,spine04,./audio_files/20211101-141618-dd7dbafb7a48aff8-spine04.wav,2
+044fcd19b99d542d,Xiaomi Mi A2 | 9,2020-03-18 10:52:00,chest01,./audio_files/20200318-105223-044fcd19b99d542d-chest01.wav,0
+838f08a7afc00923,Xiaomi Redmi Note 9 Pro | 10,2021-10-25 12:17:00,chest04,./audio_files/20211025-121721-838f08a7afc00923-chest04.wav,2
+ba35918a396c3059,HUAWEI ANE-LX1 | 8.0.0,2019-09-09 16:28:00,spine06,./audio_files/20190909-162816-ba35918a396c3059-spine06.wav,0
+014143ef87df8dfd,HUAWEI ANE-LX1 | 8.0.0,2021-01-12 16:38:00,chest01,./audio_files/20210112-163805-014143ef87df8dfd-chest01.wav,0
+0c1cb7bc2b7df7fb,Xiaomi Redmi Note 9 Pro | 10,2021-09-14 10:06:00,spine01,./audio_files/20210914-100648-0c1cb7bc2b7df7fb-spine01.wav,0
+201e5e0eb13582ab,Xiaomi Redmi Note 9 Pro | 10,2021-06-01 12:33:00,spine01,./audio_files/20210601-123329-201e5e0eb13582ab-spine01.wav,0
+8aa83d60ca20eef1,Xiaomi Redmi Note 9 Pro | 10,2021-07-05 10:59:00,chest02,./audio_files/20210705-105951-8aa83d60ca20eef1-chest02.wav,0
+b52431b003b7bb06,HUAWEI ANE-LX1 | 8.0.0,2021-05-03 13:42:00,chest01,./audio_files/20210503-134235-b52431b003b7bb06-chest01.wav,0
+8a0a7454f0880e08,Xiaomi Redmi Note 9 Pro | 11,2021-11-07 18:31:00,chest04,./audio_files/20211107-183128-8a0a7454f0880e08-chest04.wav,0
+397d9b5f03641a39,Xiaomi Mi A2 | 9,2020-02-21 10:09:00,chest01,./audio_files/20200221-100953-397d9b5f03641a39-chest01.wav,0
+140f57f9aebf5f07,Xiaomi Redmi Note 9 Pro | 11,2021-12-01 14:06:00,spine06,./audio_files/20211201-140621-140f57f9aebf5f07-spine06.wav,0
+64f9c13f97eee760,Xiaomi Redmi Note 9 Pro | 11,2021-11-30 12:13:00,chest03,./audio_files/20211130-121333-64f9c13f97eee760-chest03.wav,1
+1c45d6a73d6a6d81,Xiaomi Redmi Note 9 Pro | 11,2021-12-07 14:12:00,chest03,./audio_files/20211207-141226-1c45d6a73d6a6d81-chest03.wav,0
+7915bb240bc76131,Xiaomi Redmi Note 9 Pro | 10,2021-07-13 15:34:00,chest02,./audio_files/20210713-153443-7915bb240bc76131-chest02.wav,1
+7c714424a99aa337,Xiaomi Redmi Note 9 Pro | 10,2021-10-25 12:21:00,spine03,./audio_files/20211025-122142-7c714424a99aa337-spine03.wav,0
+70c1ce00e5f9fa94,HUAWEI ANE-LX1 | 8.0.0,2021-03-18 16:08:00,chest02,./audio_files/20210318-160838-70c1ce00e5f9fa94-chest02.wav,0
+044fcd19b99d542d,Xiaomi Mi A2 | 9,2020-03-18 10:52:00,chest03,./audio_files/20200318-105223-044fcd19b99d542d-chest03.wav,0
+ac99665412a2790e,Xiaomi Redmi Note 9 Pro | 10,2021-07-13 16:02:00,spine02,./audio_files/20210713-160211-ac99665412a2790e-spine02.wav,1
+606d97058c1bb8ee,samsung SM-A605FN | 8.0.0,2019-08-16 12:11:00,spine06,./audio_files/20190816-121120-606d97058c1bb8ee-spine06.wav,0
+6bc558da2b7368bb,Xiaomi Redmi Note 9 Pro | 10,2021-11-17 15:13:00,spine04,./audio_files/20211117-151358-6bc558da2b7368bb-spine04.wav,0
+b5a05864b4f448a1,Xiaomi Redmi Note 9 Pro | 10,2021-11-01 12:51:00,spine02,./audio_files/20211101-125147-b5a05864b4f448a1-spine02.wav,1
+e4bbdbbd31d8ffe4,Xiaomi Redmi Note 9 Pro | 10,2021-10-20 14:50:00,spine03,./audio_files/20211020-145002-e4bbdbbd31d8ffe4-spine03.wav,0
+90449d3e3176dcfc,Xiaomi Mi A2 | 10,2021-04-06 10:34:00,spine04,./audio_files/20210406-103416-90449d3e3176dcfc-spine04.wav,0
+a491c64ccf20117f,Xiaomi Redmi Note 9 Pro | 10,2021-11-17 16:50:00,chest04,./audio_files/20211117-165002-a491c64ccf20117f-chest04.wav,0
+d06d0195a709bfc1,Xiaomi Redmi Note 9 Pro | 11,2021-11-06 16:36:00,spine02,./audio_files/20211106-163624-d06d0195a709bfc1-spine02.wav,0
+f7cf7f317692db55,Xiaomi Redmi Note 9 Pro | 11,2021-12-03 11:37:00,spine03,./audio_files/20211203-113724-f7cf7f317692db55-spine03.wav,0
+f6fd072eabe89daa,Xiaomi Redmi Note 9 Pro | 11,2021-12-01 14:49:00,chest01,./audio_files/20211201-144947-f6fd072eabe89daa-chest01.wav,1
+a2ca3ce9c78b5993,HUAWEI ANE-LX1 | 8.0.0,2019-08-17 11:48:00,spine03,./audio_files/20190817-114816-a2ca3ce9c78b5993-spine03.wav,0
+05446fa32f2f3044,Xiaomi Redmi Note 9 Pro | 10,2021-07-13 15:44:00,spine01,./audio_files/20210713-154406-05446fa32f2f3044-spine01.wav,0
+0b2ed324d906c529,Xiaomi Redmi Note 9 Pro | 10,2021-09-10 11:12:00,chest03,./audio_files/20210910-111217-0b2ed324d906c529-chest03.wav,0
+e7691c48a45c9856,Xiaomi Redmi Note 9 Pro | 10,2021-07-13 15:57:00,spine02,./audio_files/20210713-155723-e7691c48a45c9856-spine02.wav,0
+42b540f65c13aa6f,Xiaomi Redmi Note 9 Pro | 11,2021-12-01 15:01:00,spine06,./audio_files/20211201-150148-42b540f65c13aa6f-spine06.wav,0
+39efeec631702353,HUAWEI ANE-LX1 | 8.0.0,2019-09-24 15:14:00,chest01,./audio_files/20190924-151450-39efeec631702353-chest01.wav,0
+c0af8c9364fe0349,Xiaomi Redmi Note 9 Pro | 10,2021-09-13 09:51:00,chest03,./audio_files/20210913-095146-c0af8c9364fe0349-chest03.wav,0
+81f53bcad83eb027,Xiaomi Redmi Note 9 Pro | 10,2021-07-08 18:19:00,spine01,./audio_files/20210708-181920-81f53bcad83eb027-spine01.wav,1
+1c45d6a73d6a6d81,Xiaomi Redmi Note 9 Pro | 11,2021-12-07 14:12:00,chest04,./audio_files/20211207-141226-1c45d6a73d6a6d81-chest04.wav,0
+c86f6f145f8111af,Xiaomi Redmi Note 9 Pro | 10,2021-12-09 15:23:00,chest04,./audio_files/20211209-152351-c86f6f145f8111af-chest04.wav,0
+aed7fce4a0241a6c,HUAWEI ANE-LX1 | 8.0.0,2019-09-12 15:57:00,chest04,./audio_files/20190912-155751-aed7fce4a0241a6c-chest04.wav,0
+ba35918a396c3059,HUAWEI ANE-LX1 | 8.0.0,2019-09-09 16:28:00,chest02,./audio_files/20190909-162816-ba35918a396c3059-chest02.wav,0
+a27590e050da0c9c,Xiaomi Redmi Note 9 Pro | 10,2021-07-13 16:12:00,spine04,./audio_files/20210713-161232-a27590e050da0c9c-spine04.wav,1
+5c559c7e3f1757a7,HUAWEI ANE-LX1 | 8.0.0,2019-09-14 10:29:00,spine06,./audio_files/20190914-102916-5c559c7e3f1757a7-spine06.wav,0
+9ba6581ed461cd5f,Xiaomi Redmi Note 9 Pro | 10,2021-05-18 10:28:00,chest03,./audio_files/20210518-102853-9ba6581ed461cd5f-chest03.wav,0
+0ff28e40dc482d96,Xiaomi M2004J19C | 10,2021-10-29 21:30:00,spine01,./audio_files/20211029-213043-0ff28e40dc482d96-spine01.wav,0
+d6dee9f2449ef9bb,Xiaomi Redmi Note 9 Pro | 11,2021-11-30 12:58:00,spine03,./audio_files/20211130-125837-d6dee9f2449ef9bb-spine03.wav,0
+f81602ad1c6359fb,Xiaomi Redmi Note 9 Pro | 10,2021-04-26 15:06:00,spine01,./audio_files/20210426-150615-f81602ad1c6359fb-spine01.wav,0
+779b952c3de329ab,Xiaomi Mi A2 | 10,2021-06-03 12:30:00,spine04,./audio_files/20210603-123038-779b952c3de329ab-spine04.wav,0
+7c714424a99aa337,Xiaomi Redmi Note 9 Pro | 10,2021-10-25 12:21:00,chest04,./audio_files/20211025-122142-7c714424a99aa337-chest04.wav,2
+0b5156558e474623,Xiaomi Redmi Note 9 Pro | 10,2021-08-17 12:37:00,spine03,./audio_files/20210817-123750-0b5156558e474623-spine03.wav,0
+5db8cab9cfd88c21,Xiaomi Redmi Note 9 Pro | 10,2021-07-13 15:45:00,spine03,./audio_files/20210713-154545-5db8cab9cfd88c21-spine03.wav,0
+6d1edd385a4f3e0b,HUAWEI ANE-LX1 | 8.0.0,2021-04-21 11:19:00,spine04,./audio_files/20210421-111949-6d1edd385a4f3e0b-spine04.wav,0
+70db59dad71eecf1,Xiaomi Mi A2 | 10,2021-02-03 15:01:00,chest01,./audio_files/20210203-150120-70db59dad71eecf1-chest01.wav,0
+a491c64ccf20117f,Xiaomi Redmi Note 9 Pro | 10,2021-11-17 16:50:00,spine04,./audio_files/20211117-165002-a491c64ccf20117f-spine04.wav,0
+8d2f44a674db93a2,Xiaomi Redmi Note 9 Pro | 10,2021-07-08 18:16:00,spine03,./audio_files/20210708-181651-8d2f44a674db93a2-spine03.wav,0
+839123d952bf7c26,Xiaomi Redmi Note 9 Pro | 10,2021-09-15 13:58:00,spine04,./audio_files/20210915-135824-839123d952bf7c26-spine04.wav,0
+13e177541e7ebb1a,Xiaomi Mi A2 | 9,2020-03-10 13:01:00,spine01,./audio_files/20200310-130113-13e177541e7ebb1a-spine01.wav,0
+9171fcad2f2321e0,Xiaomi Mi A2 | 10,2020-03-26 11:28:00,chest03,./audio_files/20200326-112847-9171fcad2f2321e0-chest03.wav,0
+e59e3a2818af008c,HUAWEI ANE-LX1 | 8.0.0,2019-08-27 14:35:00,spine06,./audio_files/20190827-143528-e59e3a2818af008c-spine06.wav,0
+18397d7150969f0d,Xiaomi Redmi Note 9 Pro | 10,2021-07-06 11:40:00,spine03,./audio_files/20210706-114020-18397d7150969f0d-spine03.wav,0
+05fe0d34d90f6a11,HUAWEI ANE-LX1 | 8.0.0,2019-08-15 15:11:00,chest02,./audio_files/20190815-151103-05fe0d34d90f6a11-chest02.wav,0
+1cde4996c2ea96d6,Xiaomi Redmi Note 9 Pro | 10,2021-07-13 15:28:00,spine02,./audio_files/20210713-152820-1cde4996c2ea96d6-spine02.wav,0
+a74c346ff7b4e09f,HUAWEI ANE-LX1 | 8.0.0,2019-09-12 16:04:00,chest03,./audio_files/20190912-160444-a74c346ff7b4e09f-chest03.wav,0
+21fd5d5aa56101d5,Xiaomi Redmi Note 9 Pro | 10,2021-12-07 12:37:00,chest02,./audio_files/20211207-123750-21fd5d5aa56101d5-chest02.wav,0
+13ff6eb95eb2ab9a,Xiaomi Mi A2 | 10,2021-03-08 14:39:00,chest03,./audio_files/20210308-143905-13ff6eb95eb2ab9a-chest03.wav,0
+40a18e5fc09a9ebd,Xiaomi Redmi Note 9 Pro | 10,2021-07-08 18:46:00,spine04,./audio_files/20210708-184657-40a18e5fc09a9ebd-spine04.wav,0
+fa47d547bd94df57,Xiaomi Mi A2 | 10,2021-06-07 15:03:00,chest01,./audio_files/20210607-150328-fa47d547bd94df57-chest01.wav,0
+5735d2cd9fe961fc,Xiaomi Mi A2 | 10,2021-11-03 13:36:00,spine03,./audio_files/20211103-133644-5735d2cd9fe961fc-spine03.wav,0
+655f1318095b988a,Xiaomi Redmi Note 9 Pro | 10,2021-10-18 12:59:00,spine01,./audio_files/20211018-125955-655f1318095b988a-spine01.wav,0
+8a17cf7da9bc16a2,Xiaomi Redmi Note 9 Pro | 10,2021-07-05 10:23:00,chest02,./audio_files/20210705-102320-8a17cf7da9bc16a2-chest02.wav,0
+839123d952bf7c26,Xiaomi Redmi Note 9 Pro | 10,2021-09-15 13:58:00,spine01,./audio_files/20210915-135824-839123d952bf7c26-spine01.wav,0
+9e3d1d84a1e509d9,Xiaomi Redmi Note 9 Pro | 10,2021-11-17 12:48:00,spine01,./audio_files/20211117-124831-9e3d1d84a1e509d9-spine01.wav,0
+ab653d86132500fb,Xiaomi Redmi Note 9 Pro | 11,2021-12-01 13:59:00,spine02,./audio_files/20211201-135908-ab653d86132500fb-spine02.wav,0
+42b540f65c13aa6f,Xiaomi Redmi Note 9 Pro | 11,2021-12-01 15:01:00,spine01,./audio_files/20211201-150148-42b540f65c13aa6f-spine01.wav,0
+81f53bcad83eb027,Xiaomi Redmi Note 9 Pro | 10,2021-07-08 18:19:00,chest02,./audio_files/20210708-181920-81f53bcad83eb027-chest02.wav,1
+ab653d86132500fb,Xiaomi Redmi Note 9 Pro | 11,2021-12-01 13:59:00,spine03,./audio_files/20211201-135908-ab653d86132500fb-spine03.wav,0
+cc17983b8b7aea1c,HUAWEI ANE-LX1 | 8.0.0,2021-06-29 15:01:00,chest02,./audio_files/20210629-150148-cc17983b8b7aea1c-chest02.wav,0
+b52431b003b7bb06,HUAWEI ANE-LX1 | 8.0.0,2021-05-03 13:42:00,chest03,./audio_files/20210503-134235-b52431b003b7bb06-chest03.wav,0
+80d4639d94db6ac7,HUAWEI ANE-LX1 | 8.0.0,2021-04-23 11:53:00,chest04,./audio_files/20210423-115328-80d4639d94db6ac7-chest04.wav,0
+9b4c2956e6d4aa4e,HUAWEI ANE-LX1 | 8.0.0,2019-08-27 14:41:00,spine03,./audio_files/20190827-144115-9b4c2956e6d4aa4e-spine03.wav,0
+72f6db6a66d8d167,Xiaomi Redmi Note 9 Pro | 10,2021-11-18 12:30:00,spine03,./audio_files/20211118-123021-72f6db6a66d8d167-spine03.wav,0
+80d4639d94db6ac7,HUAWEI ANE-LX1 | 8.0.0,2021-04-23 11:53:00,chest03,./audio_files/20210423-115328-80d4639d94db6ac7-chest03.wav,0
+eb50ca6be66b8aff,Xiaomi Mi A2 | 9,2020-03-11 11:21:00,chest03,./audio_files/20200311-112144-eb50ca6be66b8aff-chest03.wav,0
+e56a0cb1b234b74f,Xiaomi Redmi Note 9 Pro | 10,2021-09-16 11:59:00,chest02,./audio_files/20210916-115907-e56a0cb1b234b74f-chest02.wav,2
+d594cbe6e2461128,Xiaomi Redmi Note 9 Pro | 10,2021-09-15 14:08:00,chest04,./audio_files/20210915-140850-d594cbe6e2461128-chest04.wav,2
+d06d0195a709bfc1,Xiaomi Redmi Note 9 Pro | 11,2021-11-06 16:36:00,chest01,./audio_files/20211106-163624-d06d0195a709bfc1-chest01.wav,0
+8a17cf7da9bc16a2,Xiaomi Redmi Note 9 Pro | 10,2021-07-05 10:23:00,chest03,./audio_files/20210705-102320-8a17cf7da9bc16a2-chest03.wav,0
+6dabc6a62995d69f,Xiaomi Mi A2 | 10,2021-06-07 11:57:00,chest04,./audio_files/20210607-115700-6dabc6a62995d69f-chest04.wav,0
+0b5156558e474623,Xiaomi Redmi Note 9 Pro | 10,2021-08-17 12:37:00,spine02,./audio_files/20210817-123750-0b5156558e474623-spine02.wav,0
+e8e1fbb1f6277344,HUAWEI ANE-LX1 | 8.0.0,2021-04-20 11:40:00,chest01,./audio_files/20210420-114014-e8e1fbb1f6277344-chest01.wav,0
+2147b5c9dcbe035e,Xiaomi Redmi Note 9 Pro | 10,2021-11-18 12:43:00,chest02,./audio_files/20211118-124352-2147b5c9dcbe035e-chest02.wav,0
+817f269cf9d90980,Xiaomi Redmi Note 9 Pro | 10,2021-11-17 13:34:00,chest03,./audio_files/20211117-133447-817f269cf9d90980-chest03.wav,1
+83056628c8711f0a,Xiaomi Redmi Note 9 Pro | 10,2021-12-06 11:52:00,spine03,./audio_files/20211206-115244-83056628c8711f0a-spine03.wav,0
+c4cdb9808c5429e0,Xiaomi Mi A2 | 10,2021-03-08 13:15:00,chest04,./audio_files/20210308-131557-c4cdb9808c5429e0-chest04.wav,0
+8a17cf7da9bc16a2,Xiaomi Redmi Note 9 Pro | 10,2021-07-05 10:23:00,spine02,./audio_files/20210705-102320-8a17cf7da9bc16a2-spine02.wav,0
+bff5b154aa16d0c2,HUAWEI ANE-LX1 | 8.0.0,2019-09-28 12:28:00,chest03,./audio_files/20190928-122816-bff5b154aa16d0c2-chest03.wav,0
+6bc558da2b7368bb,Xiaomi Redmi Note 9 Pro | 10,2021-11-17 15:13:00,chest04,./audio_files/20211117-151358-6bc558da2b7368bb-chest04.wav,0
+fd0d9ba14e3fb2f9,Xiaomi Redmi Note 9 Pro | 10,2021-06-02 12:52:00,spine02,./audio_files/20210602-125246-fd0d9ba14e3fb2f9-spine02.wav,0
+a2ca3ce9c78b5993,HUAWEI ANE-LX1 | 8.0.0,2019-08-17 11:48:00,spine01,./audio_files/20190817-114816-a2ca3ce9c78b5993-spine01.wav,0
+297cfbbcc95f1193,Xiaomi Redmi Note 9 Pro | 10,2021-07-13 16:09:00,chest04,./audio_files/20210713-160900-297cfbbcc95f1193-chest04.wav,1
+448bed3e742fa94f,HUAWEI ANE-LX1 | 8.0.0,2019-09-12 16:12:00,chest04,./audio_files/20190912-161215-448bed3e742fa94f-chest04.wav,0
+9a06860ae58fc177,Xiaomi Redmi Note 9 Pro | 10,2021-07-13 15:50:00,spine04,./audio_files/20210713-155013-9a06860ae58fc177-spine04.wav,0
+a491c64ccf20117f,Xiaomi Redmi Note 9 Pro | 10,2021-11-17 16:50:00,chest03,./audio_files/20211117-165002-a491c64ccf20117f-chest03.wav,0
+52acb6bb91955e5f,Xiaomi Redmi Note 9 Pro | 10,2021-04-23 15:07:00,chest03,./audio_files/20210423-150733-52acb6bb91955e5f-chest03.wav,0
+817f269cf9d90980,Xiaomi Redmi Note 9 Pro | 10,2021-11-17 13:34:00,chest04,./audio_files/20211117-133447-817f269cf9d90980-chest04.wav,2
+fd34b022a3c5e00f,samsung SM-A605FN | 8.0.0,2019-08-19 17:51:00,chest01,./audio_files/20190819-175159-fd34b022a3c5e00f-chest01.wav,0
+c4cdb9808c5429e0,Xiaomi Mi A2 | 10,2021-03-08 13:15:00,chest02,./audio_files/20210308-131557-c4cdb9808c5429e0-chest02.wav,0
+0b2ed324d906c529,Xiaomi Redmi Note 9 Pro | 10,2021-09-10 11:12:00,spine02,./audio_files/20210910-111217-0b2ed324d906c529-spine02.wav,0
+befe03d0b94124c1,Xiaomi Redmi Note 9 Pro | 10,2021-10-20 14:52:00,chest01,./audio_files/20211020-145259-befe03d0b94124c1-chest01.wav,0
+72174c2362ec2988,Xiaomi Redmi Note 9 Pro | 10,2021-06-01 12:35:00,chest01,./audio_files/20210601-123507-72174c2362ec2988-chest01.wav,0
+9a77f80ec7844a8b,Xiaomi Redmi Note 9 Pro | 10,2021-11-18 12:40:00,chest04,./audio_files/20211118-124038-9a77f80ec7844a8b-chest04.wav,2
+bec20fb2641fc057,Xiaomi Redmi Note 9 Pro | 10,2021-07-08 11:34:00,spine02,./audio_files/20210708-113425-bec20fb2641fc057-spine02.wav,0
+ab653d86132500fb,Xiaomi Redmi Note 9 Pro | 11,2021-12-01 13:59:00,spine04,./audio_files/20211201-135908-ab653d86132500fb-spine04.wav,0
+ac99665412a2790e,Xiaomi Redmi Note 9 Pro | 10,2021-07-13 16:02:00,chest01,./audio_files/20210713-160211-ac99665412a2790e-chest01.wav,0
+da0fcc13da246f60,Xiaomi Redmi Note 9 Pro | 10,2021-07-08 11:35:00,chest02,./audio_files/20210708-113555-da0fcc13da246f60-chest02.wav,0
+7c714424a99aa337,Xiaomi Redmi Note 9 Pro | 10,2021-10-25 12:21:00,chest01,./audio_files/20211025-122142-7c714424a99aa337-chest01.wav,0
+8c71b1cdc6598e55,Xiaomi Redmi Note 9 Pro | 10,2021-07-05 10:53:00,chest02,./audio_files/20210705-105308-8c71b1cdc6598e55-chest02.wav,0
+8d2f44a674db93a2,Xiaomi Redmi Note 9 Pro | 10,2021-07-08 18:16:00,spine04,./audio_files/20210708-181651-8d2f44a674db93a2-spine04.wav,0
+d3fdecdee9be6327,Xiaomi Redmi Note 9 Pro | 11,2021-12-01 14:54:00,spine01,./audio_files/20211201-145455-d3fdecdee9be6327-spine01.wav,0
+b3e49305261dd693,Xiaomi Redmi Note 9 Pro | 10,2021-08-30 11:05:00,chest02,./audio_files/20210830-110521-b3e49305261dd693-chest02.wav,0
+7e47c5ae6034a1a3,Xiaomi Redmi Note 9 Pro | 10,2021-10-05 09:56:00,spine03,./audio_files/20211005-095645-7e47c5ae6034a1a3-spine03.wav,0
+1c45d6a73d6a6d81,Xiaomi Redmi Note 9 Pro | 11,2021-12-07 14:12:00,spine06,./audio_files/20211207-141226-1c45d6a73d6a6d81-spine06.wav,0
+83056628c8711f0a,Xiaomi Redmi Note 9 Pro | 10,2021-12-06 11:52:00,spine02,./audio_files/20211206-115244-83056628c8711f0a-spine02.wav,0
+969d1e890976d113,Xiaomi Mi A2 | 10,2021-06-03 12:44:00,spine03,./audio_files/20210603-124426-969d1e890976d113-spine03.wav,0
+3e3218fc8d13526b,Xiaomi Redmi Note 9 Pro | 11,2021-12-02 12:24:00,chest01,./audio_files/20211202-122433-3e3218fc8d13526b-chest01.wav,0
+42dcdccf5dac3ac3,Xiaomi M2003J15SC | 10,2021-12-15 19:58:00,spine01,./audio_files/20211215-195818-42dcdccf5dac3ac3-spine01.wav,0
+64f9c13f97eee760,Xiaomi Redmi Note 9 Pro | 11,2021-11-30 12:13:00,spine02,./audio_files/20211130-121333-64f9c13f97eee760-spine02.wav,1
+78633fe38950f24b,Xiaomi Redmi Note 9 Pro | 11,2021-11-29 12:48:00,spine05,./audio_files/20211129-124812-78633fe38950f24b-spine05.wav,0
+2dd3b0f1c7c2bce7,Xiaomi Mi A2 | 10,2021-04-08 11:07:00,chest04,./audio_files/20210408-110746-2dd3b0f1c7c2bce7-chest04.wav,2
+7e6d2038a94e58e0,Xiaomi Redmi Note 9 Pro | 10,2021-09-14 10:33:00,spine04,./audio_files/20210914-103309-7e6d2038a94e58e0-spine04.wav,0
+7915bb240bc76131,Xiaomi Redmi Note 9 Pro | 10,2021-07-13 15:34:00,spine03,./audio_files/20210713-153443-7915bb240bc76131-spine03.wav,0
+90449d3e3176dcfc,Xiaomi Mi A2 | 10,2021-04-06 10:34:00,chest04,./audio_files/20210406-103416-90449d3e3176dcfc-chest04.wav,0
+767927efd97ec9bc,Xiaomi Redmi Note 9 Pro | 10,2021-09-13 10:12:00,chest03,./audio_files/20210913-101254-767927efd97ec9bc-chest03.wav,0
+fd9595d17810d59c,Xiaomi Redmi Note 9 Pro | 10,2021-09-13 11:24:00,spine04,./audio_files/20210913-112454-fd9595d17810d59c-spine04.wav,0
+839123d952bf7c26,Xiaomi Redmi Note 9 Pro | 10,2021-09-15 13:58:00,chest04,./audio_files/20210915-135824-839123d952bf7c26-chest04.wav,0
+f465ff10f8dabe78,Xiaomi Redmi Note 9 Pro | 10,2021-07-13 15:26:00,chest03,./audio_files/20210713-152640-f465ff10f8dabe78-chest03.wav,1
+e2dbece695e619c9,Xiaomi Mi A2 | 10,2021-06-07 12:11:00,spine02,./audio_files/20210607-121141-e2dbece695e619c9-spine02.wav,0
+2d60298dc35e5d47,Xiaomi Redmi Note 9 Pro | 11,2021-11-19 12:30:00,spine01,./audio_files/20211119-123049-2d60298dc35e5d47-spine01.wav,0
+4b71c5b0940a06cb,Xiaomi Mi A2 | 10,2021-03-08 12:09:00,chest04,./audio_files/20210308-120910-4b71c5b0940a06cb-chest04.wav,0
+9c5cb53941994489,HUAWEI ANE-LX1 | 8.0.0,2020-08-27 13:13:00,chest03,./audio_files/20200827-131320-9c5cb53941994489-chest03.wav,0
+b5a05864b4f448a1,Xiaomi Redmi Note 9 Pro | 10,2021-11-01 12:51:00,chest02,./audio_files/20211101-125147-b5a05864b4f448a1-chest02.wav,2
+b5a05864b4f448a1,Xiaomi Redmi Note 9 Pro | 10,2021-11-01 12:51:00,chest01,./audio_files/20211101-125147-b5a05864b4f448a1-chest01.wav,2
+05fe0d34d90f6a11,HUAWEI ANE-LX1 | 8.0.0,2019-08-15 15:11:00,spine05,./audio_files/20190815-151103-05fe0d34d90f6a11-spine05.wav,0
+a491c64ccf20117f,Xiaomi Redmi Note 9 Pro | 10,2021-11-17 16:50:00,chest02,./audio_files/20211117-165002-a491c64ccf20117f-chest02.wav,1
+1c45d6a73d6a6d81,Xiaomi Redmi Note 9 Pro | 11,2021-12-07 14:12:00,spine01,./audio_files/20211207-141226-1c45d6a73d6a6d81-spine01.wav,0
+78633fe38950f24b,Xiaomi Redmi Note 9 Pro | 11,2021-11-29 12:48:00,chest02,./audio_files/20211129-124812-78633fe38950f24b-chest02.wav,0
+d5271913e41d9ef8,HUAWEI ANE-LX1 | 8.0.0,2020-08-29 13:15:00,chest03,./audio_files/20200829-131559-d5271913e41d9ef8-chest03.wav,0
+7e47c5ae6034a1a3,Xiaomi Redmi Note 9 Pro | 10,2021-10-05 09:56:00,chest01,./audio_files/20211005-095645-7e47c5ae6034a1a3-chest01.wav,0
+8d635df439f74865,Xiaomi Redmi Note 9 Pro | 10,2021-07-01 12:49:00,chest03,./audio_files/20210701-124950-8d635df439f74865-chest03.wav,0
+fd34b022a3c5e00f,samsung SM-A605FN | 8.0.0,2019-08-19 17:51:00,spine01,./audio_files/20190819-175159-fd34b022a3c5e00f-spine01.wav,0
+d06d0195a709bfc1,Xiaomi Redmi Note 9 Pro | 11,2021-11-06 16:36:00,chest02,./audio_files/20211106-163624-d06d0195a709bfc1-chest02.wav,0
+5735d2cd9fe961fc,Xiaomi Mi A2 | 10,2021-11-03 13:36:00,spine01,./audio_files/20211103-133644-5735d2cd9fe961fc-spine01.wav,0
+6d44ac7639a32a3f,HUAWEI ANE-LX1 | 8.0.0,2021-05-06 12:33:00,chest01,./audio_files/20210506-123320-6d44ac7639a32a3f-chest01.wav,0
+969d1e890976d113,Xiaomi Mi A2 | 10,2021-06-03 12:44:00,chest02,./audio_files/20210603-124426-969d1e890976d113-chest02.wav,0
+7b1f8002edd19d9a,Xiaomi Mi A2 | 10,2020-03-26 11:07:00,spine01,./audio_files/20200326-110730-7b1f8002edd19d9a-spine01.wav,0
+839123d952bf7c26,Xiaomi Redmi Note 9 Pro | 10,2021-09-15 13:58:00,spine02,./audio_files/20210915-135824-839123d952bf7c26-spine02.wav,0
+ef97c6e5c3e6f321,Xiaomi Redmi Note 9 Pro | 10,2021-11-17 14:45:00,spine01,./audio_files/20211117-144541-ef97c6e5c3e6f321-spine01.wav,0
+8c61bc763553fd83,Xiaomi Redmi Note 9 Pro | 10,2021-11-17 12:51:00,chest03,./audio_files/20211117-125113-8c61bc763553fd83-chest03.wav,0
+9a77f80ec7844a8b,Xiaomi Redmi Note 9 Pro | 10,2021-11-18 12:40:00,chest03,./audio_files/20211118-124038-9a77f80ec7844a8b-chest03.wav,2
+7915bb240bc76131,Xiaomi Redmi Note 9 Pro | 10,2021-07-13 15:34:00,spine02,./audio_files/20210713-153443-7915bb240bc76131-spine02.wav,0
+577a6f7598f401e5,Xiaomi Redmi Note 9 Pro | 10,2021-09-15 13:54:00,spine03,./audio_files/20210915-135431-577a6f7598f401e5-spine03.wav,0
+af83f4caf7628298,Xiaomi Redmi Note 9 Pro | 10,2021-09-13 12:57:00,chest04,./audio_files/20210913-125710-af83f4caf7628298-chest04.wav,0
+abbff4826ec9a3af,Xiaomi Redmi Note 9 Pro | 10,2021-11-02 14:24:00,chest02,./audio_files/20211102-142437-abbff4826ec9a3af-chest02.wav,1
+a1dfb8da6b7f7926,Xiaomi Redmi Note 9 Pro | 10,2021-08-24 10:18:00,spine04,./audio_files/20210824-101851-a1dfb8da6b7f7926-spine04.wav,0
+778a4d8534e42ddf,Xiaomi Redmi Note 9 Pro | 10,2021-05-18 10:08:00,chest02,./audio_files/20210518-100844-778a4d8534e42ddf-chest02.wav,0
+7b1f8002edd19d9a,Xiaomi Mi A2 | 10,2020-03-26 11:07:00,chest04,./audio_files/20200326-110730-7b1f8002edd19d9a-chest04.wav,0
+25dada732493c6e4,Xiaomi Mi A2 | 10,2021-02-04 12:05:00,chest03,./audio_files/20210204-120503-25dada732493c6e4-chest03.wav,0
+8a17cf7da9bc16a2,Xiaomi Redmi Note 9 Pro | 10,2021-07-05 10:23:00,chest01,./audio_files/20210705-102320-8a17cf7da9bc16a2-chest01.wav,0
+6f4d4122d433cc04,Xiaomi Redmi Note 9 Pro | 10,2021-05-19 12:13:00,chest04,./audio_files/20210519-121339-6f4d4122d433cc04-chest04.wav,0
+3e59e0c3ad2db178,Xiaomi Mi A2 | 10,2021-03-01 13:18:00,chest03,./audio_files/20210301-131852-3e59e0c3ad2db178-chest03.wav,2
+3517ff9621f76b7d,samsung SM-A605FN | 10,2020-09-15 11:57:00,chest01,./audio_files/20200915-115714-3517ff9621f76b7d-chest01.wav,0
+a74c346ff7b4e09f,HUAWEI ANE-LX1 | 8.0.0,2019-09-12 16:04:00,spine04,./audio_files/20190912-160444-a74c346ff7b4e09f-spine04.wav,0
+f60fd2803c4d0b9b,Xiaomi Redmi Note 9 Pro | 11,2021-12-01 15:07:00,chest03,./audio_files/20211201-150728-f60fd2803c4d0b9b-chest03.wav,0
+e7dacad5835e6114,Xiaomi Mi A2 | 10,2021-04-06 10:54:00,chest02,./audio_files/20210406-105419-e7dacad5835e6114-chest02.wav,2
+3e3218fc8d13526b,Xiaomi Redmi Note 9 Pro | 11,2021-12-02 12:24:00,spine02,./audio_files/20211202-122433-3e3218fc8d13526b-spine02.wav,0
+dbd779c33fd823b4,HUAWEI ANE-LX1 | 8.0.0,2020-11-28 09:30:00,chest01,./audio_files/20201128-093058-dbd779c33fd823b4-chest01.wav,0
+3925b84b94782590,Xiaomi Mi A2 | 10,2021-02-20 12:31:00,chest01,./audio_files/20210220-123155-3925b84b94782590-chest01.wav,2
+764e8c267dd4f851,Xiaomi Redmi Note 9 Pro | 10,2021-09-15 11:03:00,spine04,./audio_files/20210915-110343-764e8c267dd4f851-spine04.wav,0
+c109588031b76fa8,Xiaomi Redmi Note 9 Pro | 10,2021-07-13 15:36:00,chest02,./audio_files/20210713-153610-c109588031b76fa8-chest02.wav,2
+0ff28e40dc482d96,Xiaomi M2004J19C | 10,2021-10-29 21:30:00,spine02,./audio_files/20211029-213043-0ff28e40dc482d96-spine02.wav,0
+606d97058c1bb8ee,samsung SM-A605FN | 8.0.0,2019-08-16 12:11:00,spine03,./audio_files/20190816-121120-606d97058c1bb8ee-spine03.wav,0
+7b618637e3f9b1e7,Xiaomi Redmi Note 9 Pro | 10,2021-07-05 11:06:00,chest02,./audio_files/20210705-110639-7b618637e3f9b1e7-chest02.wav,0
+f33b6d57df5774c2,Xiaomi Mi A2 | 10,2021-04-08 11:01:00,spine01,./audio_files/20210408-110148-f33b6d57df5774c2-spine01.wav,0
+e2dbece695e619c9,Xiaomi Mi A2 | 10,2021-06-07 12:11:00,spine01,./audio_files/20210607-121141-e2dbece695e619c9-spine01.wav,0
+90449d3e3176dcfc,Xiaomi Mi A2 | 10,2021-04-06 10:34:00,spine06,./audio_files/20210406-103416-90449d3e3176dcfc-spine06.wav,2
+a74c346ff7b4e09f,HUAWEI ANE-LX1 | 8.0.0,2019-09-12 16:04:00,chest01,./audio_files/20190912-160444-a74c346ff7b4e09f-chest01.wav,0
+40a18e5fc09a9ebd,Xiaomi Redmi Note 9 Pro | 10,2021-07-08 18:46:00,chest01,./audio_files/20210708-184657-40a18e5fc09a9ebd-chest01.wav,1
+3e59e0c3ad2db178,Xiaomi Mi A2 | 10,2021-03-01 13:18:00,chest02,./audio_files/20210301-131852-3e59e0c3ad2db178-chest02.wav,2
+9e3d1d84a1e509d9,Xiaomi Redmi Note 9 Pro | 10,2021-11-17 12:48:00,chest03,./audio_files/20211117-124831-9e3d1d84a1e509d9-chest03.wav,0
+f33b6d57df5774c2,Xiaomi Mi A2 | 10,2021-04-08 11:01:00,chest03,./audio_files/20210408-110148-f33b6d57df5774c2-chest03.wav,0
+af75e4b4522fedee,Xiaomi Redmi Note 9 Pro | 10,2021-07-08 18:51:00,spine02,./audio_files/20210708-185109-af75e4b4522fedee-spine02.wav,0
+88fe162efde77c67,Xiaomi M2003J15SC | 10,2021-10-22 00:05:00,chest04,./audio_files/20211022-000528-88fe162efde77c67-chest04.wav,0
+b5a05864b4f448a1,Xiaomi Redmi Note 9 Pro | 10,2021-11-01 12:51:00,chest04,./audio_files/20211101-125147-b5a05864b4f448a1-chest04.wav,2
+8c71b1cdc6598e55,Xiaomi Redmi Note 9 Pro | 10,2021-07-05 10:53:00,chest04,./audio_files/20210705-105308-8c71b1cdc6598e55-chest04.wav,0
+014143ef87df8dfd,HUAWEI ANE-LX1 | 8.0.0,2021-01-12 16:38:00,chest03,./audio_files/20210112-163805-014143ef87df8dfd-chest03.wav,2
+d594cbe6e2461128,Xiaomi Redmi Note 9 Pro | 10,2021-09-15 14:08:00,spine03,./audio_files/20210915-140850-d594cbe6e2461128-spine03.wav,1
+05446fa32f2f3044,Xiaomi Redmi Note 9 Pro | 10,2021-07-13 15:44:00,chest01,./audio_files/20210713-154406-05446fa32f2f3044-chest01.wav,1
+140f57f9aebf5f07,Xiaomi Redmi Note 9 Pro | 11,2021-12-01 14:06:00,chest02,./audio_files/20211201-140621-140f57f9aebf5f07-chest02.wav,0
+1449f80965ed0aab,Xiaomi Redmi Note 9 Pro | 10,2021-07-08 18:39:00,chest03,./audio_files/20210708-183927-1449f80965ed0aab-chest03.wav,1
+d3fdecdee9be6327,Xiaomi Redmi Note 9 Pro | 11,2021-12-01 14:54:00,spine03,./audio_files/20211201-145455-d3fdecdee9be6327-spine03.wav,0
+34df4c17cc1ac7e5,Xiaomi Redmi Note 9 Pro | 10,2021-09-15 10:58:00,chest04,./audio_files/20210915-105841-34df4c17cc1ac7e5-chest04.wav,0
+fde59c0c83cd45a4,Xiaomi Redmi Note 9 Pro | 10,2021-05-07 11:03:00,spine03,./audio_files/20210507-110341-fde59c0c83cd45a4-spine03.wav,0
+8c71b1cdc6598e55,Xiaomi Redmi Note 9 Pro | 10,2021-07-05 10:53:00,chest03,./audio_files/20210705-105308-8c71b1cdc6598e55-chest03.wav,0
+ed47ef6bd436003c,Xiaomi Redmi Note 9 Pro | 10,2021-09-14 11:00:00,spine01,./audio_files/20210914-110044-ed47ef6bd436003c-spine01.wav,0
+abc84c056a3ecf9d,HUAWEI ANE-LX1 | 8.0.0,2019-08-15 15:03:00,spine05,./audio_files/20190815-150320-abc84c056a3ecf9d-spine05.wav,0
+fd9595d17810d59c,Xiaomi Redmi Note 9 Pro | 10,2021-09-13 11:24:00,chest04,./audio_files/20210913-112454-fd9595d17810d59c-chest04.wav,0
+39efeec631702353,HUAWEI ANE-LX1 | 8.0.0,2019-09-24 15:14:00,spine03,./audio_files/20190924-151450-39efeec631702353-spine03.wav,0
+18397d7150969f0d,Xiaomi Redmi Note 9 Pro | 10,2021-07-06 11:40:00,chest02,./audio_files/20210706-114020-18397d7150969f0d-chest02.wav,0
+7b618637e3f9b1e7,Xiaomi Redmi Note 9 Pro | 10,2021-07-05 11:06:00,spine04,./audio_files/20210705-110639-7b618637e3f9b1e7-spine04.wav,0
+292fb5e28213fae0,Xiaomi Mi A2 | 10,2021-03-08 12:07:00,chest04,./audio_files/20210308-120746-292fb5e28213fae0-chest04.wav,0
+074d9f644b9d0d25,Xiaomi Redmi Note 9 Pro | 10,2021-12-02 15:11:00,chest01,./audio_files/20211202-151143-074d9f644b9d0d25-chest01.wav,0
+a2ca3ce9c78b5993,HUAWEI ANE-LX1 | 8.0.0,2019-08-17 11:48:00,spine02,./audio_files/20190817-114816-a2ca3ce9c78b5993-spine02.wav,0
+779b952c3de329ab,Xiaomi Mi A2 | 10,2021-06-03 12:30:00,chest01,./audio_files/20210603-123038-779b952c3de329ab-chest01.wav,0
+6dabc6a62995d69f,Xiaomi Mi A2 | 10,2021-06-07 11:57:00,spine03,./audio_files/20210607-115700-6dabc6a62995d69f-spine03.wav,0
+39efeec631702353,HUAWEI ANE-LX1 | 8.0.0,2019-09-24 15:14:00,chest03,./audio_files/20190924-151450-39efeec631702353-chest03.wav,0
+341999c6869a5ab2,Xiaomi Redmi Note 9 Pro | 10,2021-11-02 11:18:00,spine01,./audio_files/20211102-111812-341999c6869a5ab2-spine01.wav,0
+d97d34cffad6f248,samsung SM-A605FN | 8.0.0,2019-08-15 09:34:00,spine04,./audio_files/20190815-093447-d97d34cffad6f248-spine04.wav,0
+d3fdecdee9be6327,Xiaomi Redmi Note 9 Pro | 11,2021-12-01 14:54:00,chest02,./audio_files/20211201-145455-d3fdecdee9be6327-chest02.wav,0
+778a4d8534e42ddf,Xiaomi Redmi Note 9 Pro | 10,2021-05-18 10:08:00,chest04,./audio_files/20210518-100844-778a4d8534e42ddf-chest04.wav,0
+41fceeaa1fb3132d,Xiaomi Redmi Note 9 Pro | 10,2021-07-02 12:21:00,spine01,./audio_files/20210702-122120-41fceeaa1fb3132d-spine01.wav,0
+1cde4996c2ea96d6,Xiaomi Redmi Note 9 Pro | 10,2021-07-13 15:28:00,spine04,./audio_files/20210713-152820-1cde4996c2ea96d6-spine04.wav,0
+9b4c2956e6d4aa4e,HUAWEI ANE-LX1 | 8.0.0,2019-08-27 14:41:00,spine05,./audio_files/20190827-144115-9b4c2956e6d4aa4e-spine05.wav,0
+d5f0d5bbc2090ade,Xiaomi Redmi Note 9 Pro | 10,2021-03-25 14:45:00,chest02,./audio_files/20210325-144513-d5f0d5bbc2090ade-chest02.wav,0
+8aa83d60ca20eef1,Xiaomi Redmi Note 9 Pro | 10,2021-07-05 10:59:00,spine04,./audio_files/20210705-105951-8aa83d60ca20eef1-spine04.wav,0
+074d9f644b9d0d25,Xiaomi Redmi Note 9 Pro | 10,2021-12-02 15:11:00,chest04,./audio_files/20211202-151143-074d9f644b9d0d25-chest04.wav,0
+fbadfe1bfd7877e1,Xiaomi Redmi Note 9 Pro | 10,2021-11-17 15:34:00,spine03,./audio_files/20211117-153417-fbadfe1bfd7877e1-spine03.wav,2
+ac99665412a2790e,Xiaomi Redmi Note 9 Pro | 10,2021-07-13 16:02:00,spine03,./audio_files/20210713-160211-ac99665412a2790e-spine03.wav,0
+969d1e890976d113,Xiaomi Mi A2 | 10,2021-06-03 12:44:00,chest01,./audio_files/20210603-124426-969d1e890976d113-chest01.wav,0
+df6a8705fac7c6a9,Xiaomi Redmi Note 9 Pro | 10,2021-11-17 13:18:00,spine04,./audio_files/20211117-131818-df6a8705fac7c6a9-spine04.wav,1
+bd33b9cb0312e49c,Xiaomi Redmi Note 9 Pro | 10,2021-08-26 13:41:00,chest02,./audio_files/20210826-134102-bd33b9cb0312e49c-chest02.wav,0
+8d2f44a674db93a2,Xiaomi Redmi Note 9 Pro | 10,2021-07-08 18:16:00,spine01,./audio_files/20210708-181651-8d2f44a674db93a2-spine01.wav,0
+b378220c430caf3c,Xiaomi Redmi Note 9 Pro | 10,2021-09-16 12:58:00,spine02,./audio_files/20210916-125855-b378220c430caf3c-spine02.wav,0
+8d2f44a674db93a2,Xiaomi Redmi Note 9 Pro | 10,2021-07-08 18:16:00,chest03,./audio_files/20210708-181651-8d2f44a674db93a2-chest03.wav,0
+9a77f80ec7844a8b,Xiaomi Redmi Note 9 Pro | 10,2021-11-18 12:40:00,spine03,./audio_files/20211118-124038-9a77f80ec7844a8b-spine03.wav,2
+bce32f16dcc1fe27,HUAWEI ANE-LX1 | 8.0.0,2021-05-03 13:51:00,spine03,./audio_files/20210503-135105-bce32f16dcc1fe27-spine03.wav,0
+0657eaa451ac2742,Xiaomi Redmi Note 9 Pro | 10,2021-10-29 10:07:00,spine02,./audio_files/20211029-100738-0657eaa451ac2742-spine02.wav,2
+befe03d0b94124c1,Xiaomi Redmi Note 9 Pro | 10,2021-10-20 14:52:00,chest04,./audio_files/20211020-145259-befe03d0b94124c1-chest04.wav,0
+f465ff10f8dabe78,Xiaomi Redmi Note 9 Pro | 10,2021-07-13 15:26:00,spine01,./audio_files/20210713-152640-f465ff10f8dabe78-spine01.wav,0
+8aa83d60ca20eef1,Xiaomi Redmi Note 9 Pro | 10,2021-07-05 10:59:00,spine01,./audio_files/20210705-105951-8aa83d60ca20eef1-spine01.wav,0
+13e177541e7ebb1a,Xiaomi Mi A2 | 9,2020-03-10 13:01:00,spine03,./audio_files/20200310-130113-13e177541e7ebb1a-spine03.wav,0
+5c559c7e3f1757a7,HUAWEI ANE-LX1 | 8.0.0,2019-09-14 10:29:00,spine02,./audio_files/20190914-102916-5c559c7e3f1757a7-spine02.wav,0
+b200906b96f48958,Xiaomi Redmi Note 9 Pro | 10,2021-07-08 19:00:00,spine03,./audio_files/20210708-190042-b200906b96f48958-spine03.wav,0
+764e8c267dd4f851,Xiaomi Redmi Note 9 Pro | 10,2021-09-15 11:03:00,chest03,./audio_files/20210915-110343-764e8c267dd4f851-chest03.wav,0
+12370336ab8c5854,Xiaomi Mi A2 | 10,2021-06-04 11:00:00,chest04,./audio_files/20210604-110018-12370336ab8c5854-chest04.wav,0
+d97d34cffad6f248,samsung SM-A605FN | 8.0.0,2019-08-15 09:34:00,chest01,./audio_files/20190815-093447-d97d34cffad6f248-chest01.wav,0
+19590208025dad9e,Xiaomi Mi A2 | 10,2021-01-26 10:35:00,chest04,./audio_files/20210126-103558-19590208025dad9e-chest04.wav,0
+0ff28e40dc482d96,Xiaomi M2004J19C | 10,2021-10-29 21:30:00,spine06,./audio_files/20211029-213043-0ff28e40dc482d96-spine06.wav,0
+764e8c267dd4f851,Xiaomi Redmi Note 9 Pro | 10,2021-09-15 11:03:00,chest02,./audio_files/20210915-110343-764e8c267dd4f851-chest02.wav,0
+b8715e18c465d450,samsung SM-A605FN | 8.0.0,2019-08-20 08:25:00,chest04,./audio_files/20190820-082529-b8715e18c465d450-chest04.wav,0
+448bed3e742fa94f,HUAWEI ANE-LX1 | 8.0.0,2019-09-12 16:12:00,chest03,./audio_files/20190912-161215-448bed3e742fa94f-chest03.wav,0
+e8f036ede6e32a1f,Xiaomi Mi A2 | 10,2021-02-26 15:02:00,chest02,./audio_files/20210226-150246-e8f036ede6e32a1f-chest02.wav,2
+ed47ef6bd436003c,Xiaomi Redmi Note 9 Pro | 10,2021-09-14 11:00:00,chest02,./audio_files/20210914-110044-ed47ef6bd436003c-chest02.wav,0
+018d08382efafd06,Xiaomi Redmi Note 9 Pro | 10,2021-07-13 15:42:00,chest04,./audio_files/20210713-154256-018d08382efafd06-chest04.wav,1
+31b0ff49f91a0832,Xiaomi Mi A2 | 10,2021-01-18 11:20:00,chest04,./audio_files/20210118-112019-31b0ff49f91a0832-chest04.wav,0
+4b71c5b0940a06cb,Xiaomi Mi A2 | 10,2021-03-08 12:09:00,chest01,./audio_files/20210308-120910-4b71c5b0940a06cb-chest01.wav,0
+606d97058c1bb8ee,samsung SM-A605FN | 8.0.0,2019-08-16 12:11:00,chest02,./audio_files/20190816-121120-606d97058c1bb8ee-chest02.wav,0
+fd9595d17810d59c,Xiaomi Redmi Note 9 Pro | 10,2021-09-13 11:24:00,chest02,./audio_files/20210913-112454-fd9595d17810d59c-chest02.wav,0
+e4bbdbbd31d8ffe4,Xiaomi Redmi Note 9 Pro | 10,2021-10-20 14:50:00,spine04,./audio_files/20211020-145002-e4bbdbbd31d8ffe4-spine04.wav,2
+e59e3a2818af008c,HUAWEI ANE-LX1 | 8.0.0,2019-08-27 14:35:00,spine03,./audio_files/20190827-143528-e59e3a2818af008c-spine03.wav,0
+3410f6592b7f99e3,Xiaomi Redmi Note 9 Pro | 10,2021-04-26 15:07:00,chest04,./audio_files/20210426-150725-3410f6592b7f99e3-chest04.wav,0
+577a6f7598f401e5,Xiaomi Redmi Note 9 Pro | 10,2021-09-15 13:54:00,chest01,./audio_files/20210915-135431-577a6f7598f401e5-chest01.wav,0
+9e4c1678022d7e3a,Xiaomi Redmi Note 9 Pro | 10,2021-07-08 18:52:00,spine02,./audio_files/20210708-185236-9e4c1678022d7e3a-spine02.wav,0
+df6a8705fac7c6a9,Xiaomi Redmi Note 9 Pro | 10,2021-11-17 13:18:00,chest03,./audio_files/20211117-131818-df6a8705fac7c6a9-chest03.wav,1
+ed47ef6bd436003c,Xiaomi Redmi Note 9 Pro | 10,2021-09-14 11:00:00,spine04,./audio_files/20210914-110044-ed47ef6bd436003c-spine04.wav,0
+80d4639d94db6ac7,HUAWEI ANE-LX1 | 8.0.0,2021-04-23 11:53:00,chest01,./audio_files/20210423-115328-80d4639d94db6ac7-chest01.wav,0
+a2ca3ce9c78b5993,HUAWEI ANE-LX1 | 8.0.0,2019-08-17 11:48:00,spine05,./audio_files/20190817-114816-a2ca3ce9c78b5993-spine05.wav,0
+341999c6869a5ab2,Xiaomi Redmi Note 9 Pro | 10,2021-11-02 11:18:00,spine03,./audio_files/20211102-111812-341999c6869a5ab2-spine03.wav,0
+55515821bdf8f110,Xiaomi Redmi Note 9 Pro | 11,2021-11-01 13:54:00,spine02,./audio_files/20211101-135429-55515821bdf8f110-spine02.wav,0
+15bf4d14f28fea44,Xiaomi Redmi Note 9 Pro | 10,2021-07-07 12:41:00,chest03,./audio_files/20210707-124145-15bf4d14f28fea44-chest03.wav,0
+17055ed87a4cf49b,HUAWEI ANE-LX1 | 8.0.0,2021-03-18 16:14:00,chest04,./audio_files/20210318-161442-17055ed87a4cf49b-chest04.wav,0
+c109588031b76fa8,Xiaomi Redmi Note 9 Pro | 10,2021-07-13 15:36:00,chest04,./audio_files/20210713-153610-c109588031b76fa8-chest04.wav,1
+9c5cb53941994489,HUAWEI ANE-LX1 | 8.0.0,2020-08-27 13:13:00,spine01,./audio_files/20200827-131320-9c5cb53941994489-spine01.wav,0
+246d21df2f395357,Xiaomi Redmi Note 9 Pro | 11,2021-12-08 14:03:00,spine06,./audio_files/20211208-140322-246d21df2f395357-spine06.wav,0
+6d1edd385a4f3e0b,HUAWEI ANE-LX1 | 8.0.0,2021-04-21 11:19:00,spine05,./audio_files/20210421-111949-6d1edd385a4f3e0b-spine05.wav,0
+433f508bfb069581,Xiaomi Redmi Note 9 Pro | 11,2021-11-29 13:04:00,chest01,./audio_files/20211129-130401-433f508bfb069581-chest01.wav,0
+df6a8705fac7c6a9,Xiaomi Redmi Note 9 Pro | 10,2021-11-17 13:18:00,spine03,./audio_files/20211117-131818-df6a8705fac7c6a9-spine03.wav,1
+fc907f84f39fb996,Xiaomi Redmi Note 9 Pro | 10,2021-04-28 14:44:00,spine02,./audio_files/20210428-144427-fc907f84f39fb996-spine02.wav,0
+42b540f65c13aa6f,Xiaomi Redmi Note 9 Pro | 11,2021-12-01 15:01:00,chest03,./audio_files/20211201-150148-42b540f65c13aa6f-chest03.wav,0
+e2dbece695e619c9,Xiaomi Mi A2 | 10,2021-06-07 12:11:00,chest02,./audio_files/20210607-121141-e2dbece695e619c9-chest02.wav,0
+81f53bcad83eb027,Xiaomi Redmi Note 9 Pro | 10,2021-07-08 18:19:00,chest03,./audio_files/20210708-181920-81f53bcad83eb027-chest03.wav,0
+e4bbdbbd31d8ffe4,Xiaomi Redmi Note 9 Pro | 10,2021-10-20 14:50:00,chest04,./audio_files/20211020-145002-e4bbdbbd31d8ffe4-chest04.wav,0
+40a18e5fc09a9ebd,Xiaomi Redmi Note 9 Pro | 10,2021-07-08 18:46:00,spine01,./audio_files/20210708-184657-40a18e5fc09a9ebd-spine01.wav,0
+42dcdccf5dac3ac3,Xiaomi M2003J15SC | 10,2021-12-15 19:58:00,chest03,./audio_files/20211215-195818-42dcdccf5dac3ac3-chest03.wav,0
+5a230ba61621abdb,Xiaomi Redmi Note 9 Pro | 10,2021-08-23 13:41:00,chest01,./audio_files/20210823-134106-5a230ba61621abdb-chest01.wav,0
+e59e3a2818af008c,HUAWEI ANE-LX1 | 8.0.0,2019-08-27 14:35:00,chest01,./audio_files/20190827-143528-e59e3a2818af008c-chest01.wav,0
+014143ef87df8dfd,HUAWEI ANE-LX1 | 8.0.0,2021-01-12 16:38:00,spine01,./audio_files/20210112-163805-014143ef87df8dfd-spine01.wav,0
+b39956de9f91e13d,Xiaomi Redmi Note 9 Pro | 10,2021-09-14 10:35:00,spine01,./audio_files/20210914-103518-b39956de9f91e13d-spine01.wav,0
+fd0d9ba14e3fb2f9,Xiaomi Redmi Note 9 Pro | 10,2021-06-02 12:52:00,chest03,./audio_files/20210602-125246-fd0d9ba14e3fb2f9-chest03.wav,0
+246d21df2f395357,Xiaomi Redmi Note 9 Pro | 11,2021-12-08 14:03:00,spine03,./audio_files/20211208-140322-246d21df2f395357-spine03.wav,0
+abbff4826ec9a3af,Xiaomi Redmi Note 9 Pro | 10,2021-11-02 14:24:00,chest03,./audio_files/20211102-142437-abbff4826ec9a3af-chest03.wav,2
+147a51a89162d47c,Xiaomi Mi A2 | 10,2021-02-20 12:33:00,chest04,./audio_files/20210220-123321-147a51a89162d47c-chest04.wav,2
+448bed3e742fa94f,HUAWEI ANE-LX1 | 8.0.0,2019-09-12 16:12:00,spine05,./audio_files/20190912-161215-448bed3e742fa94f-spine05.wav,0
+7c714424a99aa337,Xiaomi Redmi Note 9 Pro | 10,2021-10-25 12:21:00,spine04,./audio_files/20211025-122142-7c714424a99aa337-spine04.wav,2
+83056628c8711f0a,Xiaomi Redmi Note 9 Pro | 10,2021-12-06 11:52:00,chest01,./audio_files/20211206-115244-83056628c8711f0a-chest01.wav,0
+5db8cab9cfd88c21,Xiaomi Redmi Note 9 Pro | 10,2021-07-13 15:45:00,spine04,./audio_files/20210713-154545-5db8cab9cfd88c21-spine04.wav,0
+bec20fb2641fc057,Xiaomi Redmi Note 9 Pro | 10,2021-07-08 11:34:00,chest02,./audio_files/20210708-113425-bec20fb2641fc057-chest02.wav,0
+1cde4996c2ea96d6,Xiaomi Redmi Note 9 Pro | 10,2021-07-13 15:28:00,spine01,./audio_files/20210713-152820-1cde4996c2ea96d6-spine01.wav,0
+8a0a7454f0880e08,Xiaomi Redmi Note 9 Pro | 11,2021-11-07 18:31:00,chest01,./audio_files/20211107-183128-8a0a7454f0880e08-chest01.wav,0
+abc84c056a3ecf9d,HUAWEI ANE-LX1 | 8.0.0,2019-08-15 15:03:00,chest01,./audio_files/20190815-150320-abc84c056a3ecf9d-chest01.wav,0
+dd7dbafb7a48aff8,Xiaomi Redmi Note 9 Pro | 10,2021-11-01 14:16:00,chest04,./audio_files/20211101-141618-dd7dbafb7a48aff8-chest04.wav,2
+1b5de2e12956f87b,Xiaomi Redmi Note 9 Pro | 10,2021-07-13 15:25:00,chest03,./audio_files/20210713-152513-1b5de2e12956f87b-chest03.wav,1
+13e177541e7ebb1a,Xiaomi Mi A2 | 9,2020-03-10 13:01:00,spine02,./audio_files/20200310-130113-13e177541e7ebb1a-spine02.wav,0
+21da888c2db0925b,HUAWEI ANE-LX1 | 8.0.0,2019-08-27 14:52:00,spine02,./audio_files/20190827-145201-21da888c2db0925b-spine02.wav,0
+cc17983b8b7aea1c,HUAWEI ANE-LX1 | 8.0.0,2021-06-29 15:01:00,chest04,./audio_files/20210629-150148-cc17983b8b7aea1c-chest04.wav,0
+05446fa32f2f3044,Xiaomi Redmi Note 9 Pro | 10,2021-07-13 15:44:00,chest04,./audio_files/20210713-154406-05446fa32f2f3044-chest04.wav,1
+52acb6bb91955e5f,Xiaomi Redmi Note 9 Pro | 10,2021-04-23 15:07:00,spine02,./audio_files/20210423-150733-52acb6bb91955e5f-spine02.wav,0
+a1dfb8da6b7f7926,Xiaomi Redmi Note 9 Pro | 10,2021-08-24 10:18:00,spine01,./audio_files/20210824-101851-a1dfb8da6b7f7926-spine01.wav,0
+e7691c48a45c9856,Xiaomi Redmi Note 9 Pro | 10,2021-07-13 15:57:00,spine01,./audio_files/20210713-155723-e7691c48a45c9856-spine01.wav,0
+159fb9bc0125ec8d,Xiaomi Redmi Note 9 Pro | 10,2021-07-05 11:05:00,chest04,./audio_files/20210705-110527-159fb9bc0125ec8d-chest04.wav,0
+0c1cb7bc2b7df7fb,Xiaomi Redmi Note 9 Pro | 10,2021-09-14 10:06:00,spine03,./audio_files/20210914-100648-0c1cb7bc2b7df7fb-spine03.wav,0
+fc907f84f39fb996,Xiaomi Redmi Note 9 Pro | 10,2021-04-28 14:44:00,chest03,./audio_files/20210428-144427-fc907f84f39fb996-chest03.wav,0
+81f53bcad83eb027,Xiaomi Redmi Note 9 Pro | 10,2021-07-08 18:19:00,spine03,./audio_files/20210708-181920-81f53bcad83eb027-spine03.wav,0
+52250f4657900fc2,Xiaomi Mi A2 | 10,2021-01-25 16:46:00,chest04,./audio_files/20210125-164621-52250f4657900fc2-chest04.wav,0
+18397d7150969f0d,Xiaomi Redmi Note 9 Pro | 10,2021-07-06 11:40:00,spine01,./audio_files/20210706-114020-18397d7150969f0d-spine01.wav,0
+b200906b96f48958,Xiaomi Redmi Note 9 Pro | 10,2021-07-08 19:00:00,spine04,./audio_files/20210708-190042-b200906b96f48958-spine04.wav,0
+767927efd97ec9bc,Xiaomi Redmi Note 9 Pro | 10,2021-09-13 10:12:00,chest04,./audio_files/20210913-101254-767927efd97ec9bc-chest04.wav,0
+d484be624c01776e,Xiaomi Redmi Note 9 Pro | 11,2021-11-04 20:14:00,chest01,./audio_files/20211104-201456-d484be624c01776e-chest01.wav,0
+b378220c430caf3c,Xiaomi Redmi Note 9 Pro | 10,2021-09-16 12:58:00,chest01,./audio_files/20210916-125855-b378220c430caf3c-chest01.wav,0
+79f88017a70a224f,Xiaomi Mi A2 | 10,2021-03-08 12:17:00,chest01,./audio_files/20210308-121758-79f88017a70a224f-chest01.wav,0
+6bc558da2b7368bb,Xiaomi Redmi Note 9 Pro | 10,2021-11-17 15:13:00,spine01,./audio_files/20211117-151358-6bc558da2b7368bb-spine01.wav,0
+8c91e740b3126bbf,Xiaomi Redmi Note 9 Pro | 10,2021-08-25 14:56:00,chest02,./audio_files/20210825-145609-8c91e740b3126bbf-chest02.wav,0
+94547a049fa0df1f,Xiaomi Mi A2 | 10,2021-02-05 10:47:00,chest04,./audio_files/20210205-104714-94547a049fa0df1f-chest04.wav,0
+d06d0195a709bfc1,Xiaomi Redmi Note 9 Pro | 11,2021-11-06 16:36:00,spine01,./audio_files/20211106-163624-d06d0195a709bfc1-spine01.wav,0
+fd34b022a3c5e00f,samsung SM-A605FN | 8.0.0,2019-08-19 17:51:00,spine06,./audio_files/20190819-175159-fd34b022a3c5e00f-spine06.wav,0
+15bf4d14f28fea44,Xiaomi Redmi Note 9 Pro | 10,2021-07-07 12:41:00,spine01,./audio_files/20210707-124145-15bf4d14f28fea44-spine01.wav,0
+eb50ca6be66b8aff,Xiaomi Mi A2 | 9,2020-03-11 11:21:00,chest02,./audio_files/20200311-112144-eb50ca6be66b8aff-chest02.wav,0
+297cfbbcc95f1193,Xiaomi Redmi Note 9 Pro | 10,2021-07-13 16:09:00,chest01,./audio_files/20210713-160900-297cfbbcc95f1193-chest01.wav,1
+3b59a3c192f870d6,Xiaomi Redmi Note 9 Pro | 10,2021-09-14 10:23:00,chest02,./audio_files/20210914-102332-3b59a3c192f870d6-chest02.wav,0
+767927efd97ec9bc,Xiaomi Redmi Note 9 Pro | 10,2021-09-13 10:12:00,spine02,./audio_files/20210913-101254-767927efd97ec9bc-spine02.wav,0
+e59e3a2818af008c,HUAWEI ANE-LX1 | 8.0.0,2019-08-27 14:35:00,spine04,./audio_files/20190827-143528-e59e3a2818af008c-spine04.wav,0
+bce32f16dcc1fe27,HUAWEI ANE-LX1 | 8.0.0,2021-05-03 13:51:00,spine06,./audio_files/20210503-135105-bce32f16dcc1fe27-spine06.wav,0
+dbd779c33fd823b4,HUAWEI ANE-LX1 | 8.0.0,2020-11-28 09:30:00,chest02,./audio_files/20201128-093058-dbd779c33fd823b4-chest02.wav,0
+3b59a3c192f870d6,Xiaomi Redmi Note 9 Pro | 10,2021-09-14 10:23:00,chest03,./audio_files/20210914-102332-3b59a3c192f870d6-chest03.wav,0
+6d44ac7639a32a3f,HUAWEI ANE-LX1 | 8.0.0,2021-05-06 12:33:00,spine02,./audio_files/20210506-123320-6d44ac7639a32a3f-spine02.wav,0
+3699c6dc9046a0f0,HUAWEI ANE-LX1 | 8.0.0,2019-08-27 14:46:00,spine03,./audio_files/20190827-144638-3699c6dc9046a0f0-spine03.wav,0
+f070eb6a9f49bda2,samsung SM-A605FN | 10,2020-09-14 17:19:00,spine03,./audio_files/20200914-171946-f070eb6a9f49bda2-spine03.wav,0
+85906b68bd748e15,Xiaomi Redmi Note 9 Pro | 10,2021-07-02 14:09:00,chest01,./audio_files/20210702-140953-85906b68bd748e15-chest01.wav,0
+9a5488f27ac941de,Xiaomi Redmi Note 9 Pro | 10,2021-12-01 11:02:00,spine03,./audio_files/20211201-110208-9a5488f27ac941de-spine03.wav,1
+d97d34cffad6f248,samsung SM-A605FN | 8.0.0,2019-08-15 09:34:00,chest03,./audio_files/20190815-093447-d97d34cffad6f248-chest03.wav,0
+ac99665412a2790e,Xiaomi Redmi Note 9 Pro | 10,2021-07-13 16:02:00,chest03,./audio_files/20210713-160211-ac99665412a2790e-chest03.wav,1
+f6fd072eabe89daa,Xiaomi Redmi Note 9 Pro | 11,2021-12-01 14:49:00,spine01,./audio_files/20211201-144947-f6fd072eabe89daa-spine01.wav,1
+655f1318095b988a,Xiaomi Redmi Note 9 Pro | 10,2021-10-18 12:59:00,chest02,./audio_files/20211018-125955-655f1318095b988a-chest02.wav,0
+85906b68bd748e15,Xiaomi Redmi Note 9 Pro | 10,2021-07-02 14:09:00,spine01,./audio_files/20210702-140953-85906b68bd748e15-spine01.wav,0

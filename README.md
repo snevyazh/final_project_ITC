@@ -29,7 +29,10 @@ Our instrument allows for self-diagnosis based on the lung auscultation:
 - Improve the early diagnosis of pneumonia 
 - Save unnecessary visits to the doctor - reduce load to Healthcare System, saves patient's time
 
+## Files to use
 
+- You need just inference.py, model.pkl and requirements.txt
+- The rest of the files are working material on the project
 
 ## API Reference 
 

@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import pickle
+import surfboard
 from surfboard import feature_extraction
 
 from flask import Flask

@@ -20,6 +20,7 @@ def predict_pneumonia():
     'loudness_slidingwindow': {'frame_length_seconds': 1.0,'hop_length_seconds': 0.25}}
     # path = request.args.get('path')
     path = PATH
+    print('Got request')
     X_temp = (
     feature_extraction.extract_features_from_paths(
         [path],

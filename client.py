@@ -10,7 +10,7 @@ import subprocess
 #   song_path = input('enter the correct file path ')
 # dir_path, file_name = os.path.split(song_path)
 
-url = 'http://127.0.0.1:5000'
+url = 'http://13.51.254.95:5000'
 
 # command = 'scp -i <ec2_instance_key_file> {} <ec2_instance_username>@<ec2_instance_ip>:<remote_file_path>'.format(song_path)
 # file_send = subprocess.run(command, shell=True, check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)

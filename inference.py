@@ -7,7 +7,9 @@ from surfboard import feature_extraction
 from flask import Flask
 from flask import request
 
-with open('/Users/stanislavnevyazhsky/My Drive/Colab Notebooks/Project/model.pkl', 'rb') as trained_model_dump:
+PATH = 'sound_file.wav'
+
+with open('model.pkl', 'rb') as trained_model_dump:
     loaded_model = pickle.load(trained_model_dump)
 
 app = Flask(__name__)
@@ -16,7 +18,8 @@ app = Flask(__name__)
 def predict_pneumonia():
     config = {'log_melspec': {'hop_length_seconds': 0.02, 'n_fft_seconds': 0.08,'n_mels': 64},
     'loudness_slidingwindow': {'frame_length_seconds': 1.0,'hop_length_seconds': 0.25}}
-    path = request.args.get('path')
+    # path = request.args.get('path')
+    path = PATH
     X_temp = (
     feature_extraction.extract_features_from_paths(
         [path],

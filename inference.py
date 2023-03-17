@@ -33,6 +33,15 @@ def predict_pneumonia():
     print(y_temp)
     return str(y_temp)
 
+@app.route('/test_conn')
+def test_connection():
+    # config = {'log_melspec': {'hop_length_seconds': 0.02, 'n_fft_seconds': 0.08,'n_mels': 64},
+    # 'loudness_slidingwindow': {'frame_length_seconds': 1.0,'hop_length_seconds': 0.25}}
+    # path = request.args.get('path')
+    # path = PATH
+
+    return "OK"
+
 
 if __name__ == '__main__':
-    app.run(host = '0.0.0.0', port = 8080)
+    app.run(host = '0.0.0.0', port = 3000)

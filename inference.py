@@ -4,6 +4,7 @@ import pickle
 import surfboard
 import subprocess
 from surfboard import feature_extraction
+import os
 
 from flask import Flask
 from flask import request
@@ -47,12 +48,14 @@ def test_connection():
 
 @app.route('/submit_file')
 def get_file():
-    command = ['rm', PATH]
-    subprocess.run(command, shell=True, capture_output=True)
-    command = ['nc', '-l', PORT, '>', PATH]
-    subprocess.run(command, shell = True, capture_output = True)
-    import os
+    if os.path.exists(PATH):
+        command = ['rm', PATH]
+        subprocess.run(command)
+    else:
+        print("File does not exist, working clear")
 
+    command = f'nc -l {PORT} > PATH'
+    subprocess.run(command, shell = True, capture_output = True)
 
     if os.path.exists(PATH):
         return 'OK'

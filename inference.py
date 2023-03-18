@@ -31,7 +31,7 @@ def predict_pneumonia():
     .fillna(method="bfill"))
     y_temp = loaded_model.predict(X_temp)
     print(y_temp)
-    return str(y_temp)
+    return str(y_temp[0])
 
 @app.route('/test_conn')
 def test_connection():

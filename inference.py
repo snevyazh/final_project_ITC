@@ -77,6 +77,24 @@ def get_file():
     return "Please upload the file"
 
 
+@app.route('/upload_file', methods=['POST'])
+def submit_file():
+    if 'audio' not in request.files:
+        return 'No audio file in request', 400
+
+    audio_file = request.files['audio']
+    audio_file.save('sound_file.wav')
+
+    return 'File uploaded and saved', 200
+
+
+
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=3000)
+
+
+
 
 if __name__ == '__main__':
     app.run(host = '0.0.0.0', port = 3000)

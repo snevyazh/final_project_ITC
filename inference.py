@@ -46,6 +46,8 @@ def test_connection():
 
     return "OK"
 
+PORT = '3000'
+PATH = 'sound_file.wav'
 @app.route('/submit_file')
 def get_file():
     if os.path.exists(PATH):
@@ -55,12 +57,9 @@ def get_file():
         print("File does not exist, working clear")
 
     command = f"nc -l {PORT} > {PATH}"
-    subprocess.Popen(command, shell = True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    result = subprocess.Popen(command, shell = True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 
-    if os.path.exists(PATH):
-        return 'OK'
-    else:
-        return "File does not exist."
+    return "Please upload the file"
 
 
 

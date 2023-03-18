@@ -54,7 +54,7 @@ def get_file():
     else:
         print("File does not exist, working clear")
 
-    command = f'nc -l {PORT} > PATH'
+    command = f'nc -l {PORT} > {PATH}'
     subprocess.Popen(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 
     if os.path.exists(PATH):

@@ -2,11 +2,14 @@ import pandas as pd
 import numpy as np
 import pickle
 import surfboard
+import subprocess
 from surfboard import feature_extraction
 
 from flask import Flask
 from flask import request
 
+
+PORT = '3000'
 PATH = 'sound_file.wav'
 
 with open('model.pkl', 'rb') as trained_model_dump:
@@ -41,6 +44,21 @@ def test_connection():
     # path = PATH
 
     return "OK"
+
+@app.route('/submit_file')
+def get_file():
+    command = ['rm', PATH]
+    subprocess.run(command, shell=True, capture_output=True)
+    command = ['nc', '-l', PORT, '>', PATH]
+    subprocess.run(command, shell = True, capture_output = True)
+    import os
+
+
+    if os.path.exists(PATH):
+        return 'OK'
+    else:
+        return "File does not exist."
+
 
 
 if __name__ == '__main__':

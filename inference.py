@@ -46,7 +46,7 @@ def test_connection():
 
     return "OK"
 
-PORT = '3000'
+PORT = 3000
 PATH = 'sound_file.wav'
 @app.route('/submit_file')
 def get_file():

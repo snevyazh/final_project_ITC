@@ -12,7 +12,8 @@ from flask import Flask
 from flask import request
 
 
-PORT = '3000'
+PORT = 3000
+PORT_NC = 5000
 PATH = 'sound_file.wav'
 
 with open('model.pkl', 'rb') as trained_model_dump:
@@ -21,7 +22,7 @@ with open('model.pkl', 'rb') as trained_model_dump:
 def receive_file():
     with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
         s.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
-        s.bind(('0.0.0.0', PORT))
+        s.bind(('0.0.0.0', PORT_NC))
         s.listen(1)
         conn, addr = s.accept()
         with conn:
@@ -62,8 +63,7 @@ def test_connection():
 
     return "OK"
 
-PORT = 3000
-PATH = 'sound_file.wav'
+
 @app.route('/submit_file')
 def get_file():
     if os.path.exists(PATH):

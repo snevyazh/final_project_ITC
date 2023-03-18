@@ -5,6 +5,8 @@ import surfboard
 import subprocess
 from surfboard import feature_extraction
 import os
+import socket
+import threading
 
 from flask import Flask
 from flask import request
@@ -16,8 +18,22 @@ PATH = 'sound_file.wav'
 with open('model.pkl', 'rb') as trained_model_dump:
     loaded_model = pickle.load(trained_model_dump)
 
-app = Flask(__name__)
+def receive_file():
+    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+        s.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
+        s.bind(('0.0.0.0', PORT))
+        s.listen(1)
+        conn, addr = s.accept()
+        with conn:
+            print(f"Connection from {addr}")
+            with open(PATH, 'wb') as f:
+                while True:
+                    data = conn.recv(1024)
+                    if not data:
+                        break
+                    f.write(data)
 
+app = Flask(__name__)
 @app.route('/predict_pneumonia')
 def predict_pneumonia():
     config = {'log_melspec': {'hop_length_seconds': 0.02, 'n_fft_seconds': 0.08,'n_mels': 64},
@@ -51,13 +67,12 @@ PATH = 'sound_file.wav'
 @app.route('/submit_file')
 def get_file():
     if os.path.exists(PATH):
-        command = ['rm', PATH]
-        subprocess.run(command)
+        os.remove(PATH)
     else:
         print("File does not exist, working clear")
 
-    command = f"nc -l {PORT} > {PATH}"
-    result = subprocess.Popen(command, shell = True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    thread = threading.Thread(target=receive_file)
+    thread.start()
 
     return "Please upload the file"
 

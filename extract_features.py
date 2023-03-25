@@ -19,28 +19,28 @@ config = {
 path_train = pd.read_csv('path_train.csv')
 path_test = pd.read_csv('path_test.csv')
 
-for path in path_train['path'][10:]:
-    print(f"Extracing record {path}")
-    wave = Waveform(path=path, sample_rate=44100)
-    print("Success")
+# for path in path_train['path'][10:]:
+#     print(f"Extracing record {path}")
+#     wave = Waveform(path=path, sample_rate=44100)
+#     print("Success")
 
 
 
-# X_train = (
-#     feature_extraction.extract_features_from_paths(
-#         path_train['path'],
-#         components_list=[{key: config[key]} for key in config],
-#         statistics_list=["mean", "std"],
-#     )
-#     .replace(-np.inf, np.nan)
-#     .fillna(method="bfill")
-# )
-#
-# X_test = (
-#     feature_extraction.extract_features_from_paths(
-#         path_test['path'],
-#         components_list=[{key: config[key]} for key in config],
-#         statistics_list=["mean", "std"],
-#     )
-#     .replace(-np.inf, np.nan)
-#     .fillna(method="bfill"))
+X_train = (
+    feature_extraction.extract_features_from_paths(
+        path_train['path'],
+        components_list=[{key: config[key]} for key in config],
+        statistics_list=["mean", "std"],
+    )
+    .replace(-np.inf, np.nan)
+    # .fillna(method="bfill")
+)
+
+X_test = (
+    feature_extraction.extract_features_from_paths(
+        path_test['path'],
+        components_list=[{key: config[key]} for key in config],
+        statistics_list=["mean", "std"],
+    )
+    .replace(-np.inf, np.nan)
+    # .fillna(method="bfill"))

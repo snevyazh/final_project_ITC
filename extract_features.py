@@ -19,9 +19,9 @@ config = {
 path_train = pd.read_csv('path_train.csv')
 path_test = pd.read_csv('path_test.csv')
 
-for path in path_train['path']:
+for path in path_train['path'][10:]:
     print(f"Extracing record {path}")
-    wave = Waveform(path=path, sample_rate=22050)
+    wave = Waveform(path=path, sample_rate=44100)
     print("Success")
 
 

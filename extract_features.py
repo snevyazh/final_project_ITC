@@ -44,3 +44,7 @@ X_test = (
     )
     .replace(-np.inf, np.nan)
     # .fillna(method="bfill"))
+)
+
+X_train.to_csv('X_train_features.csv')
+X_test.to_csv('X_test_features.csv')

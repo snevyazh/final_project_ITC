@@ -4,7 +4,7 @@
 
 - Leonid
 - [@snevyazh] (https://github.com/snevyazh/)
-- Yosef Schoen
+- Yosef Schoen (https://github.com/YosefSchoen/)
 
 
 
